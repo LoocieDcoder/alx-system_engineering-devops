@@ -1,1 +1,1 @@
-who am i
+0x00. Shell, basics
